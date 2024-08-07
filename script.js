@@ -53,7 +53,7 @@ $(document).ready(function() {
     });
 
     ScrollReveal().reveal('#feedbacks', {
-        origin: 'left',
+        origin: 'right',
         duration: 2000,
         distance: '20%',
     });
